@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "gdg-tgu-angularfire-demo": {
+      "hosting": {
+        "angular-firebase-demo": [
+          "gdg-tgu-angularfire-demo"
+        ]
+      }
+    }
+  }
+}
