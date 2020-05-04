@@ -39,4 +39,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 > ng g c marketplace/home
 
+> ng g m login --routing
+
+> ng g c login/form-login
 
